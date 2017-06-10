@@ -68,7 +68,7 @@ $md_text = file_get_contents($md_file);
         </div>
 		<div class="container">
         <div class="announcement">
-		<i class="fa fa-volume-down" style="display: inline-block;font-size: 15px;margin: 0;line-height: 1;color: #444;"></i><p style="display: inline-block;font-size: 15px;margin: 0;line-height: 1;text-indent: 5px;" > <a href="https://www.nobiel.tk/" target="_blank">欢迎访问Nobiel's Blog旗下私有云站点</a></p>
+		<i class="fa fa-volume-down" style="display: inline-block;font-size: 15px;margin: 0;line-height: 1;color: #444;"></i><p style="display: inline-block;font-size: 15px;margin: 0;line-height: 1;text-indent: 5px;" > 欢迎访问<a href="https://www.nobiel.tk/" target="_blank">Nobiel's Blog</a>旗下私有云站点</p>
 		</div>
 		</div>
 		<div id="page-content" class="container">
